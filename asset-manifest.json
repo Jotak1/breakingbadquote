@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/breakingbad/static/css/main.409a853f.chunk.css",
-    "main.js": "/breakingbad/static/js/main.c28b1fde.chunk.js",
-    "main.js.map": "/breakingbad/static/js/main.c28b1fde.chunk.js.map",
-    "runtime-main.js": "/breakingbad/static/js/runtime-main.d24c30f8.js",
-    "runtime-main.js.map": "/breakingbad/static/js/runtime-main.d24c30f8.js.map",
-    "static/js/2.1e551925.chunk.js": "/breakingbad/static/js/2.1e551925.chunk.js",
-    "static/js/2.1e551925.chunk.js.map": "/breakingbad/static/js/2.1e551925.chunk.js.map",
-    "static/js/3.a3443233.chunk.js": "/breakingbad/static/js/3.a3443233.chunk.js",
-    "static/js/3.a3443233.chunk.js.map": "/breakingbad/static/js/3.a3443233.chunk.js.map",
-    "index.html": "/breakingbad/index.html",
-    "static/css/main.409a853f.chunk.css.map": "/breakingbad/static/css/main.409a853f.chunk.css.map",
-    "static/js/2.1e551925.chunk.js.LICENSE.txt": "/breakingbad/static/js/2.1e551925.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/breakingbad/static/media/logo.0f9b6e90.svg"
+    "main.css": "/breakingbadquote/static/css/main.9220a0a3.chunk.css",
+    "main.js": "/breakingbadquote/static/js/main.c28b1fde.chunk.js",
+    "main.js.map": "/breakingbadquote/static/js/main.c28b1fde.chunk.js.map",
+    "runtime-main.js": "/breakingbadquote/static/js/runtime-main.f712620d.js",
+    "runtime-main.js.map": "/breakingbadquote/static/js/runtime-main.f712620d.js.map",
+    "static/js/2.1e551925.chunk.js": "/breakingbadquote/static/js/2.1e551925.chunk.js",
+    "static/js/2.1e551925.chunk.js.map": "/breakingbadquote/static/js/2.1e551925.chunk.js.map",
+    "static/js/3.a3443233.chunk.js": "/breakingbadquote/static/js/3.a3443233.chunk.js",
+    "static/js/3.a3443233.chunk.js.map": "/breakingbadquote/static/js/3.a3443233.chunk.js.map",
+    "index.html": "/breakingbadquote/index.html",
+    "static/css/main.9220a0a3.chunk.css.map": "/breakingbadquote/static/css/main.9220a0a3.chunk.css.map",
+    "static/js/2.1e551925.chunk.js.LICENSE.txt": "/breakingbadquote/static/js/2.1e551925.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/breakingbadquote/static/media/logo.0f9b6e90.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d24c30f8.js",
+    "static/js/runtime-main.f712620d.js",
     "static/js/2.1e551925.chunk.js",
-    "static/css/main.409a853f.chunk.css",
+    "static/css/main.9220a0a3.chunk.css",
     "static/js/main.c28b1fde.chunk.js"
   ]
 }
